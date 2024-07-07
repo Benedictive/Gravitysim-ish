@@ -1,0 +1,3 @@
+[submodule "extern/SimpleCanvas"]
+	path = extern/SimpleCanvas
+	url = git@github.com:Benedictive/SimpleCanvas.git
